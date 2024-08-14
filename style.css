@@ -6,7 +6,7 @@
   }
   
   body {
-    background: linear-gradient(180deg, rgb(38, 21, 228) 0%, #8dd0f5 100%);
+    background: linear-gradient(180deg, rgb(228, 21, 21) 0%, #8dd0f5 100%);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -21,7 +21,7 @@
   }
   
   .container {
-    background-color: #2e24e4;
+    background-color: #e42424;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
     padding: 2rem;
     color: #fdfdfd;
